@@ -73,9 +73,6 @@ docker run --rm -it --privileged container-from-scratch ./main run /bin/bash
 
 > **Note:** The `--privileged` flag is needed because we're running container tech inside a container.
 
-## Learn More
-
-Check the `docs` folder for detailed explanations of the concepts behind this implementation. This project is for educational purposes - not production use!
 
 ## Technical Details
 
